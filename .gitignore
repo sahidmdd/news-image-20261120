@@ -1,4 +1,3 @@
-poster/entry.2x.png
-poster/*.2x.png
+*.2x.png
 out/
 __pycache__/
