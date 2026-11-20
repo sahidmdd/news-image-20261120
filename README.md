@@ -5,7 +5,7 @@
 [![reward](https://make.fun/badge/news-image-20261120/sahidmdd/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 One image that sums up the world news of **Friday, 20 November 2026**: a dated
-front page carrying 22 stories of the day, with two illustrated leads — the
+front page carrying 44 stories of the day, with two illustrated leads — the
 Shenzhen trilateral ("nuclear war must never be fought") and the Houthi strike
 on Riyadh's tallest tower — and four columns covering the ICJ's genocide ruling
 against Myanmar, Iran's refusal of UN inspections, Berlin's coalition of the
