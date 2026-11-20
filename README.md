@@ -5,12 +5,13 @@
 [![reward](https://make.fun/badge/news-image-20261120/sahidmdd/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 One image that sums up the world news of **Friday, 20 November 2026**: a dated
-front page with the Shenzhen trilateral ("nuclear war must never be fought"),
-the ICJ ruling that Myanmar committed genocide against the Rohingya, Houthi
-strikes on Riyadh's tallest tower, Cyclone Akvan's landfall in India, Europe's
-€45bn offer to Kyiv, Anthropic's market debut, and briefs on the Comanchero
-sanctions, Australia's settler sanctions and Somalia's expulsion of the UAE
-envoy.
+front page carrying 22 stories of the day, with two illustrated leads — the
+Shenzhen trilateral ("nuclear war must never be fought") and the Houthi strike
+on Riyadh's tallest tower — and four columns covering the ICJ's genocide ruling
+against Myanmar, Iran's refusal of UN inspections, Berlin's coalition of the
+willing and the EU's €45bn for Kyiv, 113 new sanctions, Cyclone Akvan's landfall
+in India with 120,000 evacuated, Anthropic's market debut, Somalia's expulsion
+of the UAE envoy and more.
 
 ## Run it
 
